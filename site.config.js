@@ -8,7 +8,7 @@ export default {
 
   // basic site info (required)
   name: 'Living Life',
-  domain: 'notion.paulapplegate.com',
+  domain: 'furry-garbanzo-notion.vercel.app',
   author: 'Paul Applegate',
 
   // open graph metadata (optional)
